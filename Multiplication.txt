@@ -1,0 +1,4 @@
+Multiplication of Two Numbers
+10*10=100
+20*20=400
+30*30=900
